@@ -1,0 +1,31 @@
+.Nav{
+    display: flex;
+    width: 100vw;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+
+
+@media (min-width: 300px) {
+    .Link{
+        border-radius: 4px;
+        padding: 6px 9px;
+        background-color: rgb(13, 103, 159);
+        color:#fff;
+    }
+}
+
+
+
+@media (min-width: 992px) {
+    .Link{
+        border-radius: 4px;
+        padding: 6px 12px;
+        background-color: rgb(13, 103, 159);
+        color:#fff;
+    }
+    
+}

@@ -1,0 +1,83 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .category {
+    padding: 8px 0px;
+    background-color: #fff;
+    position: sticky;
+    top:0;
+    margin: 5px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+  
+  .items {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    scroll-snap-align: start;
+  }
+  
+  .item {
+    padding:12px 0px;
+    background-color: rgb(27, 69, 114);
+    color:#fff;
+    flex: 0 0 99%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .items {
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  
+  @media screen and (min-width: 900px) {
+    .category {
+      justify-content: center;
+      overflow-x: auto;
+    }
+    
+    .items {
+      justify-content: center;
+    }
+    .item {
+        width: 120px;
+        height: 40px;
+      }
+    
+    .item {
+      flex: 0 0 130px;
+      margin:6px;
+    }
+  }
+  .Productos {
+    margin-top: 20px;
+    width: 100vw;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .FoodCat {
+    background-color: aquamarine;
+    width: 95%;
+    height:500px;
+    margin-bottom: 12px;
+  }
+  

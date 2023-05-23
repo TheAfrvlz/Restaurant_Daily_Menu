@@ -1,0 +1,310 @@
+{
+    "desayuno": [
+        {
+            "nombre": "Huevos Rancheros",
+            "descripcion": "Dos huevos fritos servidos sobre una tortilla de maíz con frijoles refritos, salsa de tomate y queso rallado. Acompañado de arroz y papas fritas.",
+            "precio": 8.99
+        },
+        {
+            "nombre": "Tostada Francesa",
+            "descripcion": "Pan francés tostado, servido con mantequilla, jarabe de arce y fruta fresca.",
+            "precio": 6.99
+        },
+        {
+            "nombre": "Omelette de Queso y Espinacas",
+            "descripcion": "Omelette de tres huevos relleno de queso y espinacas. Servido con pan tostado y mermelada de frutas.",
+            "precio": 7.99
+        },
+        {
+            "nombre": "Bagel con Salmón Ahumado",
+            "descripcion": "Bagel tostado con salmón ahumado, queso crema, cebolla roja y alcaparras.",
+            "precio": 9.99
+        },
+        {
+            "nombre": "Burrito de Tocino y Huevo",
+            "descripcion": "Burrito de huevo revuelto, tocino y queso cheddar. Servido con salsa de tomate y frijoles refritos.",
+            "precio": 7.99
+        },
+        {
+            "nombre": "Pancakes con Arándanos",
+            "descripcion": "Pancakes esponjosos con arándanos frescos. Servido con mantequilla y jarabe de arce.",
+            "precio": 6.99
+        },
+        {
+            "nombre": "Croissant de Jamón y Queso",
+            "descripcion": "Croissant relleno de jamón y queso suizo. Servido con papas fritas.",
+            "precio": 5.99
+        }
+    ],
+    "comida": [
+        {
+            "nombre": "Hamburguesa con Queso",
+            "descripcion": "Hamburguesa de carne de res de 8 oz con queso cheddar, lechuga, tomate, cebolla y mayonesa. Servido con papas fritas.",
+            "precio": 10.99
+        },
+        {
+            "nombre": "Pollo al Curry",
+            "descripcion": "Pollo tierno y jugoso cocido en una salsa de curry cremosa con pimientos y cebolla. Servido con arroz blanco y pan naan.",
+            "precio": 12.99
+        },
+        {
+            "nombre": "Spaghetti a la Boloñesa",
+            "descripcion": "Spaghetti con salsa de carne de res y tomate. Servido con pan de ajo.",
+            "precio": 9.99
+        },
+        {
+            "nombre": "Tacos de Pescado",
+            "descripcion": "Tacos de pescado frito con repollo, salsa de chipotle y lima. Servido con arroz y frijoles.",
+            "precio": 11.99
+        },
+        {
+            "nombre": "Ensalada de Pollo y Aguacate",
+            "descripcion": "Ensalada de lechuga mixta conpollo a la parrilla, aguacate, tomate, pepino, cebolla roja y aderezo ranch. Servido con pan de ajo.",
+            "precio": 9.99
+        },
+        {
+            "nombre": "Sopa de Tomate y Albahaca",
+            "descripcion": "Sopa cremosa de tomate y albahaca. Servida con pan de ajo.",
+            "precio": 5.99
+        },
+        {
+            "nombre": "Wrap Vegetariano",
+            "descripcion": "Wrap de verduras asadas con hummus y queso feta. Servido con papas fritas.",
+            "precio": 8.99
+        }
+    ],
+    "postres": [
+        {
+            "nombre": "Cheesecake de Fresa",
+            "descripcion": "Cheesecake cremoso de fresa con corteza de galleta de vainilla.",
+            "precio": 4.99
+        },
+        {
+            "nombre": "Brownie de Chocolate",
+            "descripcion": "Brownie de chocolate con nueces, servido con helado de vainilla y salsa de chocolate caliente.",
+            "precio": 5.99
+        },
+        {
+            "nombre": "Tarta de Manzana",
+            "descripcion": "Tarta de manzana recién horneada con una corteza escamosa y relleno de manzanas caramelizadas. Servido con helado de vainilla.",
+            "precio": 4.99
+        },
+        {
+            "nombre": "Helado de Vainilla",
+            "descripcion": "Dos bolas de helado de vainilla con cobertura de chocolate y nueces.",
+            "precio": 3.99
+        },
+        {
+            "nombre": "Flan de Caramelo",
+            "descripcion": "Flan de caramelo con crema batida y salsa de caramelo.",
+            "precio": 4.99
+        },
+        {
+            "nombre": "Pastel de Zanahoria",
+            "descripcion": "Pastel de zanahoria con nueces, pasas y cobertura de queso crema.",
+            "precio": 4.99
+        },
+        {
+            "nombre": "Tarta de Chocolate",
+            "descripcion": "Tarta de chocolate con una corteza de galleta de chocolate y relleno de chocolate negro. Servido con crema batida.",
+            "precio": 5.99
+        }
+    ],
+    "bebidas": [
+        {
+            "nombre": "Café",
+            "descripcion": "Café recién hecho.",
+            "precio": 1.99
+        },
+        {
+            "nombre": "Té",
+            "descripcion": "Té caliente o helado.",
+            "precio": 1.99
+        },
+        {
+            "nombre": "Refresco",
+            "descripcion": "Refresco en lata o botella.",
+            "precio": 1.99
+        },
+        {
+            "nombre": "Agua Mineral",
+            "descripcion": "Agua mineral natural o con gas.",
+            "precio": 1.99
+        },
+        {
+            "nombre": "Jugo de Naranja",
+            "descripcion": "Jugo de naranja recién exprimido.",
+            "precio": 2.99
+        },
+        {
+            "nombre": "Cerveza",
+            "descripcion": "Cerveza en botella o de barril.",
+            "precio": 3.99
+        },
+        {
+            "nombre": "Cóctel de Frutas Tropicales",
+            "descripcion": "Mezcla de jugos de frutas tropicales con ron y hielo. Servido en un vaso alto.",
+            "precio": 7.99
+        }
+    ],
+    "ensaladas": [
+        {
+            "nombre": "Ensalada de Pollo y Aguacate",
+            "descripcion": "Mezcla de lechuga, pollo a la parrilla, aguacate, tomate, queso feta y aderezo de vinagreta balsámica.",
+            "precio": 9.99
+        },
+        {
+            "nombre": "Ensalada César",
+            "descripcion": "Lechuga romana, pollo a la parrilla, crutones y aderezo césar.",
+            "precio": 8.99
+        },
+        {
+            "nombre": "Ensalada de Atún",
+            "descripcion": "Mezcla de lechuga, atún fresco, huevo duro, tomate, pepino y aderezo de vinagreta balsámica.",
+            "precio": 9.99
+        },
+        {
+            "nombre": "Ensalada de Frutas",
+            "descripcion": "Mezcla de frutas de temporada con miel y yogur griego.",
+            "precio": 7.99
+        },
+        {
+            "nombre": "Ensalada de Quinoa",
+            "descripcion": "Mezcla de quinoa, aguacate, tomate, pepino, cebolla roja y aderezo de vinagreta balsámica.",
+            "precio": 8.99
+        },
+        {
+            "nombre": "Ensalada de Espinacas",
+            "descripcion": "Mezcla de espinacas frescas, tocino, huevo duro, tomate, cebolla roja y aderezo de vinagreta balsámica.",
+            "precio": 9.99
+        }
+    ],
+    "pasteles": [
+        {
+            "nombre": "Pastel de Tres Leches",
+            "descripcion": "Pastel de vainilla esponjoso empapado en tres tipos de leche y decorado con crema batida.",
+            "precio": 4.99
+        },
+        {
+            "nombre": "Pastel de Chocolate",
+            "descripcion": "Pastel de chocolate con una capa de ganache de chocolate negro y decorado con fresas frescas.",
+            "precio": 4.99
+        },
+        {
+            "nombre": "Pastel de Queso",
+            "descripcion": "Pastel de queso suave con corteza de galleta de mantequilla y decorado con frutas frescas.",
+            "precio": 4.99
+        },
+        {
+            "nombre": "Tarta de Limón",
+            "descripcion": "Tarta de limón con una corteza de galleta de mantequilla y decorado con crema batida y rodajas de limón.",
+            "precio": 4.99
+        },
+        {
+            "nombre": "Tarta de Queso y Caramelo",
+            "descripcion": "Tarta de queso cremosa con caramelo salado y decorado con nueces tostadas.",
+            "precio": 5.99
+        },
+        {
+            "nombre": "Tarta de Frutas",
+            "descripcion": "Tarta de frutas de temporadacon crema pastelera y corteza de masa hojaldrada.",
+            "precio": 5.99
+        }
+    ],
+    "vegetariano": [
+        {
+            "nombre": "Hamburguesa Vegetariana",
+            "descripcion": "Hamburguesa vegetariana de lentejas con queso cheddar, aguacate, tomate y cebolla roja en un pan integral.",
+            "precio": 9.99
+        },
+        {
+            "nombre": "Wrap de Tofu",
+            "descripcion": "Wrap de tofu a la parrilla con lechuga, tomate, cebolla roja y aderezo de hummus en un pan de espinacas.",
+            "precio": 8.99
+        },
+        {
+            "nombre": "Ensalada de Garbanzos",
+            "descripcion": "Mezcla de garbanzos, tomate, pepino, cebolla roja y aderezo de vinagreta balsámica.",
+            "precio": 7.99
+        },
+        {
+            "nombre": "Pasta Alfredo Vegana",
+            "descripcion": "Pasta fettuccine con salsa Alfredo vegana a base de anacardos y espinacas.",
+            "precio": 10.99
+        },
+        {
+            "nombre": "Burrito Vegetariano",
+            "descripcion": "Burrito de frijoles negros con arroz, queso, guacamole, tomate, cebolla y cilantro.",
+            "precio": 9.99
+        },
+        {
+            "nombre": "Ensalada de Berenjena y Tomate",
+            "descripcion": "Mezcla de berenjena asada, tomate, mozzarella fresca y aderezo de vinagreta balsámica.",
+            "precio": 8.99
+        }
+    ],
+    "tacos": [
+        {
+            "nombre": "Tacos de Pollo",
+            "descripcion": "Tacos de pollo a la parrilla con cilantro, cebolla y salsa verde. Servido con arroz y frijoles.",
+            "precio": 9.99
+        },
+        {
+            "nombre": "Tacos de Carne Asada",
+            "descripcion": "Tacos de carne asada con cebolla caramelizada y cilantro. Servido con arroz y frijoles.",
+            "precio": 10.99
+        },
+        {
+            "nombre": "Tacos de Pescado",
+            "descripcion": "Tacos de pescado frito con repollo rallado, salsa de chipotle y cilantro. Servido con arroz y frijoles.",
+            "precio": 11.99
+        },
+        {
+            "nombre": "Tacos de Camarón",
+            "descripcion": "Tacos de camarón a la parrilla con salsa de aguacate y cilantro. Servido con arroz y frijoles.",
+            "precio": 12.99
+        },
+        {
+            "nombre": "Tacos Vegetarianos",
+            "descripcion": "Tacos de verduras a la parrilla con guacamole, cilantro y salsa de chile. Servido con arroz y frijoles.",
+            "precio": 8.99
+        },
+        {
+            "nombre": "Tacos de Cochinita Pibil",
+            "descripcion": "Tacos de cochinita pibil con cebolla encurtida y cilantro. Servido con arroz y frijoles.",
+            "precio": 10.99
+        }
+    ],
+    "sopa": [
+        {
+            "nombre": "Sopa de Tortilla",
+            "descripcion": "Sopa de tortilla con pollo desmenuzado, aguacate, queso y tortilla crujiente.",
+            "precio": 6.99
+        },
+        {
+            "nombre": "Sopa de Fideos",
+            "descripcion": "Sopa de fideos con verduras y pollo desmenuzado.",
+            "precio": 5.99
+        },
+        {
+            "nombre": "Sopa de Cebolla",
+            "descripcion": "Sopa de cebolla gratinada con queso Gruyere.",
+            "precio": 7.99
+        },
+        {
+            "nombre": "Sopa de Lentejas",
+            "descripcion": "Sopa de lentejas con verduras y chorizo.",
+            "precio": 6.99
+        },
+        {
+            "nombre": "Sopa de Mariscos",
+            "descripcion": "Sopa de mariscos con camarones, almejas y calamares.",
+            "precio": 10.99
+        },
+        {
+            "nombre": "Sopa de Verduras",
+            "descripcion": "Sopa de verduras con garbanzos y arroz integral.",
+            "precio": 5.99
+        }
+    ]
+}
